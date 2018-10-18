@@ -1,0 +1,4 @@
+redux
+testing
+mongo
+algorithms
